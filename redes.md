@@ -20,7 +20,7 @@ passagem de dados entre os mesmos.
     - NIC -> Network Interface Card;
 
 
-### Tipos de CAbo de Rede:
+### Tipos de Cabo de Rede:
     - Cabo Coxial;
     - Cabo de par trançado;
     - Cabo de Friba ótica;
